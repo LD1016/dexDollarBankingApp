@@ -19,14 +19,12 @@ const Services = () => {
       <ServicesWrapper>
         <ServicesCard>
           <ServicesIcon src={Icon1} />
-          <ServicesH2>Reduce expenses</ServicesH2>
-          <ServicesP>
-            We help reduce your fee and increase your overall revenue.
-          </ServicesP>
+          <ServicesH2>Easy Checking</ServicesH2>
+          <ServicesP>Make it easy to manage your expenses on the go.</ServicesP>
         </ServicesCard>
         <ServicesCard>
           <ServicesIcon src={Icon2} />
-          <ServicesH2>Virtual Offices</ServicesH2>
+          <ServicesH2>Virtual Connect</ServicesH2>
           <ServicesP>
             You can access our platform online anywhere in the world.
           </ServicesP>
@@ -35,7 +33,7 @@ const Services = () => {
           <ServicesIcon src={Icon3} />
           <ServicesH2>Premium Benefits</ServicesH2>
           <ServicesP>
-            Unlock our special membership card that returns 5% cash back.e
+            Unlock our special membership card that returns 5% cash back.
           </ServicesP>
         </ServicesCard>
       </ServicesWrapper>

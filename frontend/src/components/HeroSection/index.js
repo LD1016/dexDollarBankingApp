@@ -25,11 +25,8 @@ const HeroSection = () => {
         <VideoBg autoPlay loop muted src={Video} type='video/mp4' />
       </HeroBg>
       <HeroContent>
-        <HeroH1>Virtual Banking Made Easy</HeroH1>
-        <HeroP>
-          Sign up for a new account today and receive $250 in credit towards
-          your next payment.
-        </HeroP>
+        <HeroH1>DexDollar It's all about access</HeroH1>
+        <HeroP>Sign up for a new account and receive $500 in cash today.</HeroP>
         <HeroBtnWrapper>
           <Button
             to='signup'

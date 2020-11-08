@@ -6,7 +6,7 @@ export const homeObjectOne = {
   topLine: 'Premium Bank',
   headLine: 'Unlimited Transactions with zero fees',
   description:
-    'Get access to our exclusive app that allows you to send unlimited transactions without getting charged any fee.',
+    'Get unlimited deposits, payments & transfers without getting charged any fee. Proudly made for small businesses, startups & freelancers. Save up to 50% on bookkeeping. Save time & money.',
   buttonLabel: 'Get Started',
   imgStart: false,
   img: require('../../images/svg-8.svg'),
@@ -40,9 +40,9 @@ export const homeObjectThree = {
   lightText: false,
   lightTextDesc: false,
   topLine: 'Join our Team',
-  headLine: 'Creating account with us',
+  headLine: 'Open account with us',
   description:
-    'Get everything set up and ready in under 10 minutes. All you need to do is add your information and you are ready to go.',
+    'Open your account online in less than 3 minutes. We’re changing the way people feel about banking. No minimum, monthly, or overdraft fees.',
   buttonLabel: 'Get Started',
   imgStart: false,
   img: require('../../images/svg-3.svg'),

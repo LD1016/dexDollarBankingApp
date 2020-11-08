@@ -68,17 +68,13 @@ const Footer = () => {
         <SocialMedia>
           <SocialMediaWrap>
             <SocialLogo to='/' onClick={toggleHome}>
-              dolla
+              DexDollar
             </SocialLogo>
             <WebsiteRights>
               Lance Dang &copy; {new Date().getFullYear()} All rights reserved.
             </WebsiteRights>
             <SocialIcons>
-              <SocialIconLink
-                href='//www.google.com'
-                target='_blank'
-                aria-label='Facebook'
-              >
+              <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
                 <FaFacebook />
               </SocialIconLink>
 
